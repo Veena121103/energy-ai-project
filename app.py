@@ -4,7 +4,7 @@ import joblib
 import os
 import gdown
 
-# Google Drive File ID
+# Google Drive File ID (use ONE only)
 FILE_ID = "1e6t2JoFLCgEOo-ELAobxY4oSgsL_8j23"
 MODEL_PATH = "model.pkl"
 
