@@ -1,5 +1,8 @@
 # ⚡ Energy Consumption Predictor
 
+## 🌐 Live Demo
+[https://your-app.streamlit.app](https://energy-ai-project-kdfvg59ssvi3jyndrpgsui.streamlit.app/)
+
 ## 📌 Overview
 This project predicts household energy consumption using a Machine Learning model.  
 It is built as an end-to-end application where users can input electrical parameters and get real-time predictions through a web interface.
